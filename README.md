@@ -1,4 +1,6 @@
 # Pokemon Turn Based Game C++
+by Jack Bialek, Hayden Michelotti and Meekee Charl
+
 1. Run the program
 2. Using, 1, 2 or 3 select a Pokemon
 3. Using 1, 2, 3 select an attack
